@@ -1,9 +1,5 @@
-# awesome_flutter
-
-A new Flutter project.
-
 ## Getting Started
+Here we are collecting Flutter examples which can help new learners.
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-# awesome_flutter
+- Press Event (How to change color of an Icon on Press)
+
